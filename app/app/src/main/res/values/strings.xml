@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AD340/HW 2 - Adding Activity</string>
+    <string name="Welcome" >Input your State name </string>
+    <string name="Button">Button</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_State">DisplayStateActivity</string>
+
+  </resources>
